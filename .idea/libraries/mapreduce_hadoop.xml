@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mapreduce-hadoop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Exercise2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Exercise1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
